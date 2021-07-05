@@ -6,10 +6,12 @@ The goal is to provide the client with insight as to how the success of Kickstar
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Start Date
+There were more successfull campaigns started in the summer.
+
 
 ### Analysis of Outcomes Based on Fundraising Goal
 The campaigns with the greatest likelihood of success are those that are under $5,000, with those under $1,000 doing slightly better. 
-resources/Outcomes_vs_Goals.png
+https://github.com/AlexisBurton/Kickstarter-analysis/blob/6207276aede4604374eea0c76e082602d5f18626/resources/Outcomes_vs_Goals.png
 
 ### Challenges
 
