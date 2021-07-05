@@ -6,8 +6,8 @@ The goal is to provide the client with insight as to how the success of Kickstar
 
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Start Date
-There were more successfull campaigns started in the summer.
-
+There were more successful campaigns started in the summer, and the rate of successful to unsuccessful campaigns was also higher in the summer.  
+https://github.com/AlexisBurton/Kickstarter-analysis/blob/e99cf69681f6a5a059a2377a1230f0f9b2e7e68a/resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Fundraising Goal
 The campaigns with the greatest likelihood of success are those that are under $5,000, with those under $1,000 doing slightly better. 
